@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: black;
+}
+#canvas1{
+    border: 2px solid white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 600x;
+    height:600px;
+
+}
+#button1{
+    background-color: white;
+    text-decoration-color: black;
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    transform: translate(-50%,-50%);
+    width: 60px;
+    height:30px;
+    border-radius: 10px 10px 10px 10px;
+    margin: 10px;
+    
+}
